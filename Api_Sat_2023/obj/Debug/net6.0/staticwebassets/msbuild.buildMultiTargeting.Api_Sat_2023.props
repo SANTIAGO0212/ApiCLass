@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api_Sat_2023.props" />
+</Project>
